@@ -3,16 +3,16 @@
 
 Updated: 2022-04-12
 
-__Package Version:__
-Name: netket
-Version: 3.3
-Summary: Netket : Machine Learning techniques for many-body quantum systems.
-Home-page: http://github.com/netket/netket
-Author: Giuseppe Carleo et al.
-Author-email: netket@netket.org
-License: Apache 2.0
-Location: /Users/victorwei/opt/miniconda3/lib/python3.8/site-packages
-Requires: jaxlib, optax, plum-dispatch, numba4jax, numpy, numba, tqdm, flax, jax, orjson, scipy, igraph
+__Package Version:__<br/> 
+Name: netket<br/> 
+Version: 3.3<br/> 
+Summary: Netket : Machine Learning techniques for many-body quantum systems.<br/> 
+Home-page: http://github.com/netket/netket<br/> 
+Author: Giuseppe Carleo et al.<br/> 
+Author-email: netket@netket.org<br/> 
+License: Apache 2.0<br/> 
+Location: /Users/victorwei/opt/miniconda3/lib/python3.8/site-packages<br/> 
+Requires: jaxlib, optax, plum-dispatch, numba4jax, numpy, numba, tqdm, flax, jax, orjson, scipy, igraph<br/> 
 
 __File Descriptions__ (*---"not too important"; **---"fairly important"; ***---"very important"):
 
