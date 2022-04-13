@@ -3,7 +3,18 @@
 
 Updated: 2022-04-12
 
-File Descriptions (*---"not too important"; **---"fairly important"; ***---"very important"):
+Package Version:
+Name: netket
+Version: 3.3
+Summary: Netket : Machine Learning techniques for many-body quantum systems.
+Home-page: http://github.com/netket/netket
+Author: Giuseppe Carleo et al.
+Author-email: netket@netket.org
+License: Apache 2.0
+Location: /Users/victorwei/opt/miniconda3/lib/python3.8/site-packages
+Requires: jaxlib, optax, plum-dispatch, numba4jax, numpy, numba, tqdm, flax, jax, orjson, scipy, igraph
+
+__File Descriptions__ (*---"not too important"; **---"fairly important"; ***---"very important"):
 
 ***.ipynb_checkpoints (and other ipynb notebook files outside folders): Please see the .ipynb files outside the folders, they contain the same code. These notebook files were created for analysis tasks or quick tests. Important ones include, Analysis_energy_over_iteration.ipynb (used for energy descent visualization), Analysis_Time_scaling.ipynb (file for analyzing time-scaling behaviors of ground state), spectrum.ipynb (used to generate spectrum plot, based on Alev's original implementation). 
 
