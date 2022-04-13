@@ -39,7 +39,7 @@ __***efficient dynamics:__ !!! one of the most important folder of files, as it 
 
 __*excited states:__ This folder contains a failed attempt of making excited state calculation efficient by making local operator module sparse-matrix-compatible.
 
-__***penalty excited state:__ !!! one of the most important folder of files, as it contains the calculations of excited states using penalty-based method, which is efficient. The two "expect_grad_ex.py" and "vmc_ex.py" files are the modified module files that will be imported in order to run penalty-based excited state calculations. Folder "2021_summer_data" is the local data folder for storing output files of penalty-excited states. Folder "Validation Test" contains time-scaling verifrication of the penalty method. Folder "Exploration Test" contains experiments involving changing penalty coefficient, RBM's hidden nodes number (alpha), optimizer (rmsprop v.s. vanilla SGD), and a local data storage folder.
+__***penalty excited state:__ !!! one of the most important folder of files, as it contains the calculations of excited states using penalty-based method, which is efficient. <br/> The two "expect_grad_ex.py" and "vmc_ex.py" files are the modified module files that will be imported in order to run penalty-based excited state calculations. <br/> Folder "2021_summer_data" is the local data folder for storing output files of penalty-excited states. <br/> Folder "Validation Test" contains time-scaling verifrication of the penalty method. <br/> Folder "Exploration Test" contains experiments involving changing penalty coefficient, RBM's hidden nodes number (alpha), optimizer (rmsprop v.s. vanilla SGD), and a local data storage folder.
 
 
 
