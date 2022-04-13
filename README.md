@@ -33,8 +33,8 @@ __**Dynamics:__ This is from 2021 summer, where spin dynamics, correlation funct
 __Time-scaling with accuracy:__ Ignore it please, it has nothing, all the time scaling stuff were done in Analysis_Time_scaling.ipynb, the separate notebook file outside folders.
 
 __***efficient dynamics:__ !!! one of the most important folder of files, as it contains all the dynamics done in an efficient Monte Carlo manner. The "eigenstate_data" folder has the output eigenstate data in the form of stored RBM parameters. Here are some important files: 
-1."correlation function.ipynb" has calculations for correlation function, as well as a FFT spectrum done numerically; 2."correlation_function_analytic_spectrum.ipynb" has correlation function calculations updated with error bars, as well as an analytic spectrum with unit impulse functions to represent Dirac-Delta functions; 
-3."expectation_value_test" has the code for generating samples of the initial correlation function at t=0, also generating a histogram based on it, as well as an extrapolation of fluctuation standard deviation; 
+1."correlation function.ipynb" has calculations for correlation function, as well as a FFT spectrum done numerically;<br/> 2."correlation_function_analytic_spectrum.ipynb" has correlation function calculations updated with error bars, as well as an analytic spectrum with unit impulse functions to represent Dirac-Delta functions;<br/> 
+3."expectation_value_test" has the code for generating samples of the initial correlation function at t=0, also generating a histogram based on it, as well as an extrapolation of fluctuation standard deviation;<br/> 
 4."linear_response.ipynb" has the calculations and figures for the linear response of Sx and Sy, using correlation function of S+ and S-, both exactand approximate RBM solutions.
 
 __*excited states:__ This folder contains a failed attempt of making excited state calculation efficient by making local operator module sparse-matrix-compatible.
